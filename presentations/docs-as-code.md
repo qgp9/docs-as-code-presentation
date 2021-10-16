@@ -154,7 +154,7 @@ https://github.com/finko-dev/docs-as-code-example-1
 * 문서의 추가/변경을 제안하고 함께 리뷰하는 협업시스템
 * branch 또는 fork 를 이용하는 두가지 방법
 ### 장점: 세밀한 협업이 가능
-### 단점: 어려움
+### 단점: 어려움 :)
 
 ---
 
