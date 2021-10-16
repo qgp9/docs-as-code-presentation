@@ -18,18 +18,19 @@ Beomsu Chang
 
 ---
 
-## Docs as Code
+## Docs as Code?
 문서를 코드처럼 관리하자
 
 ---
 
+## 참고
 https://www.writethedocs.org/guide/docs-as-code
 https://www.docslikecode.com
 https://about.gitlab.com/handbook/handbook-usage/
 
 ---
 
-## 문서를 코드처럼 관리하자.
+## Modern 코드 관리의 기본 요소
 * Issue Trackers
 * Version Control (Git)
 * Plain Text Markup (Markdown, reStructuredText, Asciidoc)
@@ -38,14 +39,29 @@ https://about.gitlab.com/handbook/handbook-usage/
 
 ---
 
-## 특히
+## 특히 Docs as Code 의 핵심은
 1. 텍스트 문서 (Markdown, reStructuredText, Asciidoc)
 2. 버젼 컨트롤 (Git)
 3. 코드리뷰 (깃헙 머지 리퀘스트)
+### 그리고
+Publish/Test
+
+---
+
+### 장점
+코드를 관리의 현대적인 다양한
+에코시스템을 적용할 수 있음
+
+### 단점
+배우고 관리하는데 러닝커브가 있음
+
 
 ---
 
 ## 1. 텍스트 문서
+일단 문서를 텍스트로 만들면 코드를 관리하듯  
+버젼컨트롤/코드리뷰 기능을 사용할 수 있음
+wiki 나 latex 도 텍스트 문서
 
 ---
 
@@ -73,9 +89,18 @@ https://about.gitlab.com/handbook/handbook-usage/
 ```
 ---
 
+### 예제) 1단계 : 마크다운 문서 작성
+GitHub:
+코드 관리 서비스 이지만
+Docs as Code 를 위한 거의 모든 기능을 제공
+https://github.com/finko-dev/docs-as-code-example-1
+
+---
+
 ## 2. 버젼컨트롤
 
 ---
+
 ### Git
 최근 가장 많이 사용되는 버젼 컨트롤 시스템
 ### GitHub
@@ -84,55 +109,95 @@ git 기반의 종합종합 서비스!
 
 ---
 
-### 히스토리와 비교
+### Git 의 장점
+구글독스의 버젼 관리보다 진화되고
+구조적인 버젼관리를 제공
+GitHub / GitLab / Gitea 등의
+어마무시하고 대단한 서비스가 있음
 
----
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+### 단점
+어려움 ㅋㅋ
 
 ---
 
-## **[Netlify](https://www.netlify.com/)**
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-### abc
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+### 예제) 2단계: 문서 수정하고 히스토리 보기
+https://github.com/finko-dev/docs-as-code-example-1
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
+## 코드리뷰
+* PR(Pull Request) 또는 MR(Merge Request)
+* 문서의 추가/변경을 제안하고 함께 리뷰하는 협업시스템
+* branch 또는 fork 를 이용하는 두가지 방법
+### 장점: 세밀한 협업이 가능
+### 단점: 어려움
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+### 예제) 코드리뷰: branch 를 이용한 PR
+https://github.com/finko-dev/docs-as-code-example-1
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+---
 
-https://github.com/yhatt/marp-cli-example
+### 예제) 코드리뷰: fork 를 이용한 PR
+https://github.com/finko-dev/docs-as-code-example-1
+
+---
+
+## Publish / Test
+작성한 문서를 웹페이지로 보기 좋게 publish 
+##### <!--fit--> [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [ReadTheDocs](https://readthedocs.io/) | ...
+
+---
+
+### readthedocs.io
+테크니컬 문서를 위한 서비스
+Docs as Code 와 잘 맞음
+GitHub / GitLab 등의 서비스와 연동 가능
+리뷰할 때 preview 기능을 지원(Test)
+
+---
+
+### 예제) readthedocs.io publish
+https://github.com/qgp9/docs-as-code-example-readthedocs
+https://docs-as-code-example-readthedocs.readthedocs.io/
+
+---
+
+### 예제) readthedocs.io 리뷰
+https://github.com/qgp9/docs-as-code-example-readthedocs
+https://docs-as-code-example-readthedocs.readthedocs.io/
+
+---
+
+## GitLab handbook
+* https://about.gitlab.com/handbook/
+* GitLab 은 GitHub 과 비슷한 서비스를 제공하는 회사
+* All remote work 회사로 유명함
+* GitLab handbook 이라는 문서를 모든 의사소통의 기반으로 사용
+* GitLab handbook 은 Docs as Code 로 관리 
+
+---
+
+## GitLab Handbook Usage
+https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
+
+
+---
+
+## GitLab Handbook Usage: 핵심
+* 모든 의사소통/토론/질문은 가능한한 핸드북 링크를 이용한다. (link first)
+* 의사소통에 필요한 내용이 핸드북에 없다면 추가한다. (PR) 
+* 모든 제안은 가능한한 PR 을 기반으로 한다.
+
+---
+
+## PR 코드리뷰의 장점
+* 실제 변경사항을 보여주고 토론할 수 있다
+* 바로 문서에 반영되지 않기 때문에, 두려움 없이 제안을 할 수 있다
+(Wiki 의 경우 바로 반영되기 때문에 심리적 장벽이 있음)
+* 문서에 반영되지 않더라도 정보로 남는다.
+
+---
+
+###### <!--fit--> 감사합니다.
