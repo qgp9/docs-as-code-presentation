@@ -18,6 +18,21 @@ Beomsu.Chang@gmail.com
 
 ---
 
+### 시작하기 전에
+* 예제들이 있어서 15분 내에 못 끝낼 수도...
+* 원하시는 분들 계시면 AS 해 드립니다.
+* 챗창은 Nearby 에서 Everyone 으로 바꿔주시고
+* 챗에 열심히 참여해 주세요(반응/질문)
+
+---
+
+# <!--fit--> Docs as Code
+
+FinKoDev Core-Summit 2021
+Beomsu.Chang@gmail.com
+
+---
+
 ## Docs as Code?
 문서를 코드처럼 관리하자
 * 현대 코드 관리는 그 복잡함 때문에
@@ -222,7 +237,9 @@ https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
 ---
 
 ### 이 슬라이드도 Markdown 입니다
+* Powered by [Marp](https://marp.app/) 
 * https://github.com/qgp9/docs-as-code-presentation
+* [RevealJs](https://revealjs.com/) 도 좋습니다.
 * 이 문서에는 일부러 낸 오타들이 있씁니다.
 * 오타나 다른 제안을 PR 해 주시는 분들께 맥주 샵니다.
 * 필란드 돌아가면.
