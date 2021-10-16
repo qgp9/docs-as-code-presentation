@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Docs as Code
+description: Docs as Code 슬라이드
 theme: uncover
 paginate: true
 _paginate: false
