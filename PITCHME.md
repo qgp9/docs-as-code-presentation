@@ -5,32 +5,94 @@ description: Hosting Marp slide deck on the web
 theme: uncover
 paginate: true
 _paginate: false
+class: invert
 ---
+<!--
+![bg](#123)![](#fff)
+-->
 
-![bg](./assets/gradient.jpg)
+# <!--fit--> Docs as Code
 
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+FinKoDev Core-Summit 2021
+Beomsu Chang
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+## Docs as Code
+문서를 코드처럼 관리하자
 
 ---
 
-![bg](#123)
-![](#fff)
+https://www.writethedocs.org/guide/docs-as-code
+https://www.docslikecode.com
+https://about.gitlab.com/handbook/handbook-usage/
 
+---
+
+## 문서를 코드처럼 관리하자.
+* Issue Trackers
+* Version Control (Git)
+* Plain Text Markup (Markdown, reStructuredText, Asciidoc)
+* Code Reviews
+* Automated Tests
+
+---
+
+## 특히
+1. 텍스트 문서 (Markdown, reStructuredText, Asciidoc)
+2. 버젼 컨트롤 (Git)
+3. 코드리뷰 (깃헙 머지 리퀘스트)
+
+---
+
+## 1. 텍스트 문서
+
+---
+
+### 장점
+* 쉬운 버젼컨트롤 = 쉬운 비교
+* 구조화된 내용
+* 내용에 집중할 수 있음
+
+---
+
+### 단점
+* 복잡한 문서는 어려움
+* 러닝커브
+
+---
+### 마크다운 Markdown
+구조가 단순하고 <br/> 개발자들이 가장 범용적으로 사용하는 형식
+```
+# 제목
+
+내용
+
+* 리스트1
+* 리스트2
+```
+---
+
+## 2. 버젼컨트롤
+
+---
+### Git
+최근 가장 많이 사용되는 버젼 컨트롤 시스템
+### GitHub
+git 기반의 종합종합 서비스!
+보너스: 웹기반 에디터, 이슈트레커, 위키, 코드리뷰 등등등.
+
+---
+
+### 히스토리와 비교
+
+---
 ##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
 
 ##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+
+---
+
 
 ---
 
@@ -44,9 +106,10 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
+## **[Netlify](https://www.netlify.com/)**
 ![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
 
-## **[Netlify](https://www.netlify.com/)**
+### abc
 
 #### Ready to write & host your deck!
 
