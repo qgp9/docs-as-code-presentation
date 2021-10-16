@@ -20,7 +20,10 @@ Beomsu.Chang@gmail.com
 
 ## Docs as Code?
 문서를 코드처럼 관리하자
-
+* 현대 코드 관리는 그 복잡함 때문에
+* 코드를 관리하고 협업하기 위한
+다양한 방법이 발달되어 있음
+* 그 방법들을 문서에도 적용하자.
 ---
 
 ## 참고
@@ -33,14 +36,14 @@ https://about.gitlab.com/handbook/handbook-usage/
 ## Modern 코드 관리의 기본 요소
 * Issue Trackers
 * Version Control (Git)
-* Plain Text Markup (Markdown, reStructuredText, Asciidoc)
+* Plain Text Markup (Markdown, reStructuredText)
 * Code Reviews
 * Automated Tests
 
 ---
 
 ## 특히 Docs as Code 의 핵심은
-1. 텍스트 문서 (Markdown, reStructurredText, Asciidoc)
+1. 텍스트 문서 (Markdown, reStructurredText)
 2. 버젼 컨트롤 (Git)
 3. 코드리뷰 (깃헙 머지 리퀘스트)
 ### 그리고
@@ -61,7 +64,9 @@ Publish/Test
 ## 1. 텍스트 문서
 일단 문서를 텍스트로 만들면 코드를 관리하듯  
 버젼컨트롤/코드리뷰 기능을 사용할 수 있음
+HTML, Markdown, reStructurredText, Asciidoc, 그냥 TXT
 Wikipedia 도 텍스트 문서
+ 
 
 ---
 
@@ -73,7 +78,7 @@ Wikipedia 도 텍스트 문서
 ---
 
 ### 단점
-* 복잡한 문서는 어려움
+* 복잡한 문서는 어려움 (장점이기도 함)
 * 러닝커브
 
 ---
@@ -94,6 +99,10 @@ GitHub:
 코드 관리 서비스 이지만
 Doc as Code 를 위한 거의 모든 기능을 제공공
 https://github.com/finko-dev/docs-as-code-example-1
+
+~~어려운 커맨드~~
+~~프로그램 설치~~
+그냥 github 웹페이지로 다 합니다.
 
 ---
 
