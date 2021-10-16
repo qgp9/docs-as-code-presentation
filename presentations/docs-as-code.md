@@ -159,18 +159,18 @@ https://github.com/finko-dev/docs-as-code-example-1
 ---
 
 ### 예제) 코드리뷰: branch 를 이용한 PR
-https://github.com/qgp9/docs-as-code-example-readthedocs
+###### <!--fit--> https://github.com/qgp9/docs-as-code-example-readthedocs
 
 ---
 
 ### 예제) 코드리뷰: fork 를 이용한 PR
-https://github.com/qgp9/docs-as-code-example-readthedocs
+###### <!--fit--> https://github.com/qgp9/docs-as-code-example-readthedocs
 
 ---
 
 ## Publish / Test
 작성한 문서를 웹페이지로 보기 좋게 publish 
-##### <!--fit--> [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [ReadTheDocs](https://readthedocs.io/) | ...
+###### <!--fit--> [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [ReadTheDocs](https://readthedocs.io/) | ...
 
 ---
 
@@ -183,14 +183,14 @@ GitHub / GitLab 등의 서비스와 연동 가능
 ---
 
 ### 예제) readthedocs.io publish
-https://github.com/qgp9/docs-as-code-example-readthedocs
-https://docs-as-code-example-readthedocs.readthedocs.io/
+###### <!--fit--> https://github.com/qgp9/docs-as-code-example-readthedocs
+###### <!--fit--> https://docs-as-code-example-readthedocs.readthedocs.io/
 
 ---
 
 ### 예제) readthedocs.io 리뷰
-https://github.com/qgp9/docs-as-code-example-readthedocs
-https://docs-as-code-example-readthedocs.readthedocs.io/
+###### <!--fit--> https://github.com/qgp9/docs-as-code-example-readthedocs
+###### <!--fit--> https://docs-as-code-example-readthedocs.readthedocs.io/
 
 ---
 
