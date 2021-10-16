@@ -14,7 +14,7 @@ class: invert
 # <!--fit--> Docs as Code
 
 FinKoDev Core-Summit 2021
-Beomsu Chang
+Beomsu.Chang@gmail.com
 
 ---
 
@@ -24,9 +24,9 @@ Beomsu Chang
 ---
 
 ## 참고
-https://www.writethedocs.org/guide/docs-as-code
-https://www.docslikecode.com
-https://about.gitlab.com/handbook/handbook-usage/
+https://www.writethedocs.org/guide/docs-as-code  
+https://www.docslikecode.com  
+https://about.gitlab.com/handbook/handbook-usage/  
 
 ---
 
@@ -40,7 +40,7 @@ https://about.gitlab.com/handbook/handbook-usage/
 ---
 
 ## 특히 Docs as Code 의 핵심은
-1. 텍스트 문서 (Markdown, reStructuredText, Asciidoc)
+1. 텍스트 문서 (Markdown, reStructurredText, Asciidoc)
 2. 버젼 컨트롤 (Git)
 3. 코드리뷰 (깃헙 머지 리퀘스트)
 ### 그리고
@@ -61,7 +61,7 @@ Publish/Test
 ## 1. 텍스트 문서
 일단 문서를 텍스트로 만들면 코드를 관리하듯  
 버젼컨트롤/코드리뷰 기능을 사용할 수 있음
-wiki 나 latex 도 텍스트 문서
+Wikipedia 도 텍스트 문서
 
 ---
 
@@ -78,7 +78,7 @@ wiki 나 latex 도 텍스트 문서
 
 ---
 ### 마크다운 Markdown
-구조가 단순하고 <br/> 개발자들이 가장 범용적으로 사용하는 형식
+구조가 단순하고 <br/> 개발자들이 가장 많이 사용하는 문서 형식
 ```
 # 제목
 
@@ -92,7 +92,7 @@ wiki 나 latex 도 텍스트 문서
 ### 예제) 1단계 : 마크다운 문서 작성
 GitHub:
 코드 관리 서비스 이지만
-Docs as Code 를 위한 거의 모든 기능을 제공
+Doc as Code 를 위한 거의 모든 기능을 제공공
 https://github.com/finko-dev/docs-as-code-example-1
 
 ---
@@ -193,11 +193,28 @@ https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
 ---
 
 ## PR 코드리뷰의 장점
-* 실제 변경사항을 보여주고 토론할 수 있다
+* 실재 변경사항을 보여주고 토론할 수 있다
 * 바로 문서에 반영되지 않기 때문에, 두려움 없이 제안을 할 수 있다
 (Wiki 의 경우 바로 반영되기 때문에 심리적 장벽이 있음)
 * 문서에 반영되지 않더라도 정보로 남는다.
 
 ---
 
-###### <!--fit--> 감사합니다.
+## <!--fit--> 감사합니다.
+
+---
+
+## <!--fit--> Q&A
+
+---
+
+## <!--fit--> 보너스!
+
+--샵
+
+### 이 슬라이드도 Markdown 입니다
+* https://github.com/qgp9/docs-as-code-presentation
+* 이 문서에는 일부러 낸 오타들이 있씁니다.
+* 오타나 다른 제안을 PR 해 주시는 분들께 맥주 샵니다.
+* 필란드 돌아가면.
+* 선착순 5명!
