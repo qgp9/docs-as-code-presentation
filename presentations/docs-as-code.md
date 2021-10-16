@@ -159,12 +159,12 @@ https://github.com/finko-dev/docs-as-code-example-1
 ---
 
 ### 예제) 코드리뷰: branch 를 이용한 PR
-https://github.com/finko-dev/docs-as-code-example-1
+https://github.com/qgp9/docs-as-code-example-readthedocs
 
 ---
 
 ### 예제) 코드리뷰: fork 를 이용한 PR
-https://github.com/finko-dev/docs-as-code-example-1
+https://github.com/qgp9/docs-as-code-example-readthedocs
 
 ---
 
