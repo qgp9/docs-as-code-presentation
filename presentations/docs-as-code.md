@@ -210,7 +210,7 @@ https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
 
 ## <!--fit--> 보너스!
 
---샵
+---
 
 ### 이 슬라이드도 Markdown 입니다
 * https://github.com/qgp9/docs-as-code-presentation
