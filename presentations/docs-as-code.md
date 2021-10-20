@@ -21,7 +21,7 @@ Beomsu.Chang@gmail.com
 ### 시작하기 전에
 * 예제들이 있어서 15분 내에 못 끝낼 수도...
 * 원하시는 분들 계시면 AS 해 드립니다.
-* 챗창은 Nearby 에서 Everyone 으로 바꿔주시고
+* 챗 창은 Nearby에서 Everyone으로 바꿔주시고
 * 챗에 열심히 참여해 주세요(반응/질문)
 
 ---
@@ -112,7 +112,7 @@ Wikipedia 도 텍스트 문서
 ### 예제) 1단계 : 마크다운 문서 작성
 GitHub:
 코드 관리 서비스 이지만
-Doc as Code 를 위한 거의 모든 기능을 제공공
+Doc as Code 를 위한 거의 모든 기능을 제공
 https://github.com/finko-dev/docs-as-code-example-1
 
 ~~어려운 커맨드~~
@@ -128,8 +128,8 @@ https://github.com/finko-dev/docs-as-code-example-1
 ### Git
 최근 가장 많이 사용되는 버젼 컨트롤 시스템
 ### GitHub
-git 기반의 종합종합 서비스!
-보너스: 웹기반 에디터, 이슈트레커, 위키, 코드리뷰 등등등.
+git 기반의 종합 서비스!
+보너스: 웹 기반 에디터, 이슈 트레커, 위키, 코드리뷰 등등등.
 
 ---
 
@@ -240,7 +240,7 @@ https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
 * Powered by [Marp](https://marp.app/) 
 * https://github.com/qgp9/docs-as-code-presentation
 * [RevealJs](https://revealjs.com/) 도 좋습니다.
-* 이 문서에는 일부러 낸 오타들이 있씁니다.
-* 오타나 다른 제안을 PR 해 주시는 분들께 맥주 샵니다.
-* 필란드 돌아가면.
+* 이 문서에는 일부러 낸 오타들이 있습니다.
+* 오타나 다른 제안을 PR 해주시는 분들께 맥주 삽니다.
+* 핀란드 돌아가면.
 * 선착순 5명!
