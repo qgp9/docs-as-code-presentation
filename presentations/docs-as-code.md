@@ -241,6 +241,6 @@ https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
 * https://github.com/qgp9/docs-as-code-presentation
 * [RevealJs](https://revealjs.com/) 도 좋습니다.
 * 이 문서에는 일부러 낸 오타들이 있습니다.
-* 오타나 다른 제안을 PR 해주시는 분들께 맥주 삽니다.
+* 오타나 다른 제안을 PR 해 주시는 분들께 피자랑 맥주 삽니다.
 * 핀란드 돌아가면.
 * 선착순 5명!
